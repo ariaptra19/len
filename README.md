@@ -1,5 +1,5 @@
 # 🤖Onic Bot🤖
-BOT WHATSAPP HP BINTANG NUR PRADANA
+BOT WHATSAPP Aria Putra Pratama
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
