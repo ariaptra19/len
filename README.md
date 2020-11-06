@@ -1,4 +1,4 @@
-# botst4rz
+# 🤖Onic Bot🤖
 BOT WHATSAPP HP BINTANG NUR PRADANA
 
 ### Alat dan Bahan
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
+> git clone https://github.com/ariaptra19/len
 > cd botst4rz
 > bash install.sh
 > node index.js
@@ -26,8 +26,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
-| :-----------: | :--------------------------------: |
+| Onic BOT      |                Feature            |
+| :-----------: | :--------------------------------:|
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
 |       ✅       | Pantun                           |
@@ -46,7 +46,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Donate                           |
 
 ## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`Aria Putra Pratama`](https://wa.me/+6289525340368)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/ariaptra)
