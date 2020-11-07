@@ -12,9 +12,9 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ONIC BOT🤖'; // Nama Bot Whatsapp
+const BotName = 'Tsaqif Bot🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/ini.aria'; // Nama Instagramlu cok
-const whatsapplu = '0895-2534-0368'; // Nomor whatsapplu cok
+const whatsapplu = '0896-0141-6330'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/IY7l7nccKqr0ojwtei6Dqb'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/IY7l7nccKqr0ojwtei6Dqb'; // OFFICIAL GRUP LU 2
